@@ -18,3 +18,12 @@ p{
    background-image: linear-gradient(white, black);
 
 }
+.crea{
+    background-image: radial-gradient(circle at center, yellow, blue);
+}
+.drea{
+    background-image: repeating-radial-gradient(ellipse at center, black, white 10px);
+}
+.drea:hover{
+    background-image: repeating-radial-gradient(ellipse at center, white, black 10px);
+}
