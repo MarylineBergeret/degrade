@@ -6,11 +6,11 @@ div, p{
 
 }
 .area {
-    background-image: linear-gradient(to right bottom, red, blue, green);
+    background-image: linear-gradient(to left bottom, red, green, blue);
 }
 
 .brea {
-    background-image: linear-gradient(70deg, rgba(255, 192, 203, 0.644) 75%, yellow);
+    background-image: linear-gradient(-70deg, rgba(255, 192, 203, 0.644) 75%, yellow);
 }
 
 
